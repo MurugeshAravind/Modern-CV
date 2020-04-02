@@ -118,7 +118,7 @@ hr {
   color: #eaf6f6;
   font-size: 0.75rem;
   position: relative;
-  top: 50px;
+  top: 60px;
 }
 
 .button {
@@ -146,7 +146,7 @@ hr {
   color: #11999e;
   position: relative;
   top: 50px;
-  padding: 20px;
+  padding: 50px 25px;
 }
 
 .image-class:hover {
@@ -156,4 +156,8 @@ hr {
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+}
+
+.code-skill-description {
+  line-height: 2;
 }
